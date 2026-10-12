@@ -1,0 +1,9 @@
+{
+  "name": "personalized-financial-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A focused personal finance tracker MVP",
+  "scripts": {
+    "check": "node --check app.js"
+  }
+}
